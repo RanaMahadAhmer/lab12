@@ -1,0 +1,21 @@
+{
+  "BigQuery Schema": [
+    {"name": "FiscalYear", "type": "STRING"},
+    {"name": "PayrollNumber", "type": "INTEGER"},
+    {"name": "AgencyName", "type": "STRING"},
+    {"name": "LastName", "type": "STRING"},
+    {"name": "FirstName", "type": "STRING"},
+    {"name": "MidInit", "type": "STRING"},
+    {"name": "AgencyStartDate", "type": "TIMESTAMP"},
+    {"name": "WorkLocationBorough", "type": "STRING"},
+    {"name": "TitleDescription", "type": "STRING"},
+    {"name": "LeaveStatusAsOfJune30", "type": "STRING"},
+    {"name": "BaseSalary", "type": "FLOAT"},
+    {"name": "PayBasis", "type": "STRING"},
+    {"name": "RegularHours", "type": "INTEGER"},
+    {"name": "RegularGrossPaid", "type": "FLOAT"},
+    {"name": "OTHours", "type": "INTEGER"},
+    {"name": "TotalOTPaid", "type": "FLOAT"},
+    {"name": "TotalOtherPay", "type": "FLOAT"}
+  ]
+}
